@@ -1,0 +1,10 @@
+
+.datosper{
+    font-family: Monserrat,sans-serif;
+    background-color: rgb(209, 204, 133);
+    display: flexbox;
+    position:relative;
+    top:0%;
+    margin-top: 0%;
+    margin: auto;
+}

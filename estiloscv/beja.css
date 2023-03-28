@@ -1,0 +1,8 @@
+.beja{
+    display: flex;
+    margin-left: 20%;
+    height: 100px;
+    width: 100px;
+    box-sizing: border-box;
+    max-width: 100px;
+}
